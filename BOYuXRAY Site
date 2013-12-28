@@ -1,0 +1,2233 @@
+<html>
+<head>
+<center>
+</div>
+<title>Boltz - BOYuXRAY</title>
+</head>
+<body bgcolor="#313131" text="grey">
+<h1>Welcome to Boltz!</h1>
+<img src="http://d2bm3ljpacyxu8.cloudfront.net/width/99/boltzsitez.webs.com/Boltz.jpg" width="400" height="100" alt="computer graphic">
+<br>
+<h2>www.BoltzSitez.webs.com</h2>
+<h2> Pages </h2>
+ : <a href="/newpage.htm">Bot</a>
+<p> hi! join IRC with GameBoy Bots!</p>
+<p>I`m BOYuXRAY from <i>BOLTZ</i>.<br>
+I`m owner of  <u>Boltz</u> IRC Channel (irc.quakenet.org) at (webchat.quakenet.org) channel #BoltzIRC ,player of <b>www.Buildandshoot.com</b></br></p>
+<p> hi! we have 2 bots available for free! we killed the first version due to weakness of scripts</p>
+<p> If you want to make a bot,you need a shell : so go to #jshells on irc.quakenet.org(webchat.quakenet.org)</p>
+<body>
+<p> Hi!I`m a scripter of Phyton and mIRC</P>
+Welcome to my Site!this site is for my friends and fun ! This site is will be the guide of GameBoy bots
+for irc.quakenet.org <invite gameboy> by /invite GameBoy <channel> 
+</body>
+Site for Friends!this site has been made by j4jackj and boyuxray`s html code</br>
+<script type="text/javascript">
+adblockDetectImage("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7pYn89l5ymXGgINiHnIRqsMvmDjvyvF1lzfDwg9AfBQCCk8sU", "You wouldn't download an adblock.");
+</script>
+<h3>Join IRC!</h3>
+<details>
+<summary>Click for IRC</summary>
+<iframe src="http://webchat.quakenet.org/?channels=BoltzIRC&uio=MTE9MTU0c2" width="647" height="400"></iframe>
+<iframe src="http://webirc.umbrellix.tk/?channels=BoltzIRC%2Casterirc%2Castersupport&uio=d4" width="647" height="400"></iframe>
+</details>
+<h3>BuildAndShoot</h3>
+<a href="#" onclick="localhost_popup()">LocalHost Connect</a></strong>
+<p>BuildAndShoot.com is a player-run community for the free and highly addictive game known as Ace of Spades. Login to play the game, interact with others, and customize your experience,It's all 100% free!</p>
+<h3GameBoy bots</h3>
+Bots that are FUN And PROTECTION Bots :) Currently Bots : <select>
+  <option value="audi">GameBoy</option>
+</select>
+<h3>AoS Mods</h3>
+<body>
+<p>Hi!if you want more go to http://gamebanana.com/members/1366002</p>
+<img src="http://files.gamebanana.com/img/ss/srends/thm_525093900dbfc.jpg" alt="Car with Pirate chest" height="200" width="240">
+<img src="http://files.gamebanana.com/img/ss/skins/thm_524f928922aee.jpg" alt="Radio Intel" height="200" width="240">
+<img src="http://files.gamebanana.com/img/ss/srends/thm_524c10f769ef5.jpg" alt="Hunter`s Beta Barret" height="200" width="240">
+<img src="http://files.gamebanana.com/img/ss/srends/thm_52491cac73c33.jpg" alt="Xm8" height="200" width="240">
+<img src="http://files.gamebanana.com/img/ss/srends/thm_5241269c94257.jpg" alt="Sickle Spade" height="200" width="240">
+<img src="http://files.gamebanana.com/img/ss/gamefiles/thm_5246d3f97dc44.jpg" alt="MP5" height="200" width="240">
+<img src="http://files.gamebanana.com/img/ss/srends/thm_523f60f2448fb.jpg" alt="Molotov With Sounds" height="200" width="240">
+</center>
+<p>Mods And Skins</p>
+<ol>
+  <li>Car with Pirate Chest</li>
+  <li>Radio</li>
+  <li>Hunter`s Beta Barret</li>
+  <li>Sickle Spade</li>
+  <li>mp5</li>
+</ol>
+<p>Successful</p>
+<ul>
+  <li>Molotov</li>
+  <li>Xm8</li>
+</ul>
+</body>
+<center>
+<h3>BuildAndShoot</h3>
+<p>click the SERVERLIST to see the serverlist</p>
+<details>
+<summary>Serverlist</summary>
+<p>BuildAndShoot</p>
+<p> This serverlist is extracted by BOYuXRAY from www.buildandshoot.com </p>
+<div class="box" id="BLOCK_C_40">
+<div class="block_data">
+<script type="text/javascript" src="http://static.buildandshoot.com/custom_serverlist/jquery.tinysort.js"></script>
+<script type="text/javascript" src="http://static.buildandshoot.com/custom_serverlist/serverlist.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static.buildandshoot.com/custom_serverlist/serverlist.css">
+<script type="text/javascript">
+    jQuery(document).ready(function($)
+    {
+    	init_serverlist();
+    });
+    </script>
+<div id="serverlistcontainer">
+<div style="text-align: center;">
+<span id="stats_data">There are currently <b>345</b> players on <b>93</b> public servers.</span>
+<br/>
+<strong><a href="http://www.buildandshoot.com/viewtopic.php?f=18&t=311">Run a server</a> | <a href="#" onclick="localhost_popup()">LocalHost Connect</a></strong>
+</div>
+<br/>
+<div id="serverlistOptions">
+<div style="float: left;">
+<div>
+<div id="serverlist">
+<div id="serverlistTable">
+<a data-players="31" class="serverlink" href="aos://1611523671:723:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">31/32</div>
+<div class="column_name serverRowColumn">HOMO - Infiltration</div>
+<div class="column_mode serverRowColumn">infiltr</div>
+<div class="column_map serverRowColumn">Tortuga</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://2294772441:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/4</div>
+<div class="column_name serverRowColumn">Deine Mutter TOCKY IS GAYY</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Anticbridge</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="28" class="serverlink" href="aos://3403146391:32850:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">28/32</div>
+<div class="column_name serverRowColumn">MCP-UK AoS server #1 Hallway 24</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="5" class="serverlink" href="aos://3107645189:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">5/20</div>
+<div class="column_name serverRowColumn">FreeBuild 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://3799712849:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/32</div>
+<div class="column_name serverRowColumn">learn_more's minefield</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">TightRope</div>
+<div class="column_country serverRowColumn"><img class="flag flag-nl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Netherlands</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="10" class="serverlink" href="aos://1805958741:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">10/24</div>
+<div class="column_name serverRowColumn">Swift CTF 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://3432103509:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/4</div>
+<div class="column_name serverRowColumn">gameplayer</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Bridge Wars</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://151004933:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">UnAnother server powered by [Ha</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2550501198:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/4</div>
+<div class="column_name serverRowColumn">JavasZombie</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Anticbridge</div>
+<div class="column_country serverRowColumn"><img class="flag flag-nl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Netherlands</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="32" class="serverlink" href="aos://1379434439:41887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">32/32</div>
+<div class="column_name serverRowColumn">aloha.pk counter-strike maps</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">cs_office</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:47887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk Fortwars</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hexclimb</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:24887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk king of the hill</div>
+<div class="column_mode serverRowColumn">koth</div>
+<div class="column_map serverRowColumn">skullfort</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:45887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk four teams</div>
+<div class="column_mode serverRowColumn">4teams</div>
+<div class="column_map serverRowColumn">Quadpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:35887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/31</div>
+<div class="column_name serverRowColumn">aloha.pk infiltration</div>
+<div class="column_mode serverRowColumn">infiltr</div>
+<div class="column_map serverRowColumn">Castle Assault</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="17" class="serverlink" href="aos://774716197:32857:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">17/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty Babel Top10 24/7</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">Frog</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32889:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Arena</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">rigReloaded</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="12" class="serverlink" href="aos://2866202799:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">12/32</div>
+<div class="column_name serverRowColumn">CIB CLAN CTF SERVER</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">ButterWarfare</div>
+<div class="column_country serverRowColumn"><img class="flag flag-kr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Korea</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1207969541:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">My 24/7 Server</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://774716197:32847:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty All Top10 24/7</div>
+<div class="column_mode serverRowColumn">all</div>
+<div class="column_map serverRowColumn">EllipsisBabel</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2816400714:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">SPQR GoonAssault Server</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Utopia</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32891:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Push</div>
+<div class="column_mode serverRowColumn">push</div>
+<div class="column_map serverRowColumn">Swamp Lands</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="6" class="serverlink" href="aos://1543513861:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">6/32</div>
+<div class="column_name serverRowColumn">Event Noel</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Noel</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="15" class="serverlink" href="aos://1379434439:43887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">15/32</div>
+<div class="column_name serverRowColumn">aloha.pk arena top maps</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">generator2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:38887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk global war</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">earth</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="4" class="serverlink" href="aos://1379434439:30887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">4/32</div>
+<div class="column_name serverRowColumn">aloha.pk capture the flag</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Tortuga</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:36887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tug of war</div>
+<div class="column_mode serverRowColumn">tow</div>
+<div class="column_map serverRowColumn">random</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://1412988871:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/32</div>
+<div class="column_name serverRowColumn">Dankoland - Jetpack instagib</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">pattern</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:40887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk ctf 24/7 classicgen</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="4" class="serverlink" href="aos://3869722700:32997:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">4/32</div>
+<div class="column_name serverRowColumn">SuperCool RPG</div>
+<div class="column_mode serverRowColumn">rpg</div>
+<div class="column_map serverRowColumn">supercoolkill</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="7" class="serverlink" href="aos://1379434439:37887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">7/32</div>
+<div class="column_name serverRowColumn">aloha.pk humans vs. zombies</div>
+<div class="column_mode serverRowColumn">zombies</div>
+<div class="column_map serverRowColumn">pinnacle2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2157925059:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/4</div>
+<div class="column_name serverRowColumn">nitrado.net gameserver</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">pyspades</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1159862110:33087:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">JestServers.com France</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://3181589190:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">RoT - Random</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-ca" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Canada</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="22" class="serverlink" href="aos://3736662471:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">22/24</div>
+<div class="column_name serverRowColumn">KLAP - East Coast</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Pinpoint2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2214526854:32892:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">German Spades BABEL</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">Mesa</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2988796206:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">[FR] styled-gaming.eu | Babel |</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">blam</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1611523671:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HOMO - Babel</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">Hillside v2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://486549253:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Team TF 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://774716197:32867:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty mCtf Top10 24/7</div>
+<div class="column_mode serverRowColumn">mctf</div>
+<div class="column_map serverRowColumn">TurvyStairsMiniCtf</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2214526854:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">German Spades</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:50887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tdm 24/7 faceoff</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">faceoff</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2214526854:32890:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">German Spades TDM</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Nuketown</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4091232640:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/4</div>
+<div class="column_name serverRowColumn">minecrafthexxit</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Bridge Wars</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://19235506:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HWS AOS Server</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Space Station</div>
+<div class="column_country serverRowColumn"><img class="flag flag-ru" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Russia</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://3403146391:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/32</div>
+<div class="column_name serverRowColumn">MCP-UK Hallway #2 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn">img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="4" class="serverlink" href="aos://1379434439:46887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">4/32</div>
+<div class="column_name serverRowColumn">aloha.pk football/soccer</div>
+<div class="column_mode serverRowColumn">footbal</div>
+<div class="column_map serverRowColumn">countrycourse</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:51887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tennis</div>
+<div class="column_mode serverRowColumn">tennis</div>
+<div class="column_map serverRowColumn">tennis</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:23887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk dig dug</div>
+<div class="column_mode serverRowColumn">digdug</div>
+<div class="column_map serverRowColumn">Dig Dug</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:39887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk intel rpg</div>
+<div class="column_mode serverRowColumn">irpg</div>
+<div class="column_map serverRowColumn">darkfort</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="9" class="serverlink" href="aos://1379434439:49887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">9/32</div>
+<div class="column_name serverRowColumn">aloha.pk push</div>
+<div class="column_mode serverRowColumn">push</div>
+<div class="column_map serverRowColumn">Swamp Lands</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1826870178:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/16</div>
+<div class="column_name serverRowColumn">Vanilla 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="30" class="serverlink" href="aos://1379434439:34887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">30/32</div>
+<div class="column_name serverRowColumn">aloha.pk tower of babel</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">1river2forts</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://4232559539:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/16</div>
+<div class="column_name serverRowColumn">Commando Training brazil [TVG]</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-br" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Brazil</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="18" class="serverlink" href="aos://3214621526:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">18/32</div>
+<div class="column_name serverRowColumn">Destiny-Server - HALLWAY WINTER</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">hallwaywinter</div>
+<div class="column_country serverRowColumn"><img class="flag flag-hu" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Hungary</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:53887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk last stand</div>
+<div class="column_mode serverRowColumn">stand</div>
+<div class="column_map serverRowColumn">Ambush</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2966034199:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">doge</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Metropolis</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1611523671:700:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HOMO - Pinpoint/Goon Maps</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">goonjungle</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4038426958:41000:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Shams Little Pony</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">New Fort</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://2501532628:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/24</div>
+<div class="column_name serverRowColumn">24/7 Polski serwer AOS 2(Klasy)</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Harbor 2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-pl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Poland</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://1379434439:48887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/32</div>
+<div class="column_name serverRowColumn">aloha.pk blockpower</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Pinway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:42887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tdm island maps</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">standoff</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Deathmatch</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Checkpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1932730546:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Hampshire Heavies Territorial C</div>
+<div class="column_mode serverRowColumn">tc</div>
+<div class="column_map serverRowColumn">greece</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4073026265:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/4</div>
+<div class="column_name serverRowColumn">nitrado.net gameserver</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Bridge Wars</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://1379434439:52887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/32</div>
+<div class="column_name serverRowColumn">aloha.pk SuperCool Build</div>
+<div class="column_mode serverRowColumn">build</div>
+<div class="column_map serverRowColumn">classicgenstatic</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://3403146391:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">MCP-UK AoS Server #2</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Urban Tank Fight</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2501532628:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/24</div>
+<div class="column_name serverRowColumn">24/7 Polski serwer AOS</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Bridge Wars</div>
+<div class="column_country serverRowColumn"><img class="flag flag-pl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Poland</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://2400554830:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/10</div>
+<div class="column_name serverRowColumn">GermanBuildAndShotby DJeleganto</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Anticbridge</div>
+<div class="column_country serverRowColumn"><img class="flag flag-nl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Netherlands</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Capture The Flag</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Leaves 2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1611523671:667:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HOMO - JojoeMaps</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">EpicForts</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="16" class="serverlink" href="aos://1379434439:31887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">16/32</div>
+<div class="column_name serverRowColumn">aloha.pk 1ctf 24/7 pinpoint</div>
+<div class="column_mode serverRowColumn">1ctf</div>
+<div class="column_map serverRowColumn">pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="30" class="serverlink" href="aos://1379434439:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">30/32</div>
+<div class="column_name serverRowColumn">aloha.pk r1ctf 24/7 hallway</div>
+<div class="column_mode serverRowColumn">r1ctf</div>
+<div class="column_map serverRowColumn">hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2988796206:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">[FR] styled-gaming.eu | CTF |</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://922756869:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">International Stalkers 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">KaBoom</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="5" class="serverlink" href="aos://2746420930:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">5/32</div>
+<div class="column_name serverRowColumn">Animus Server 1 - TDM</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Animus</div>
+<div class="column_country serverRowColumn"><img class="flag flag-it" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Italy</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="8" class="serverlink" href="aos://774716197:32877:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">8/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty Arena Top10 24/7</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">CrossOver</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1932730546:39000:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">-@Sw Stormwind Clan CTF Server-</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Cannibal Islands</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://3403146391:32891:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">MCP-UK AoS TDM</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Assault2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4161118164:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Doms Experiments - Babel(/heal)</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">random</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:33887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk arena all maps</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">Space Station</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="10" class="serverlink" href="aos://3869722700:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">10/30</div>
+<div class="column_name serverRowColumn">SuperCool Curse of Hompy Jones</div>
+<div class="column_mode serverRowColumn">kraken</div>
+<div class="column_map serverRowColumn">Skull Island</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="4" class="serverlink" href="aos://1112045143:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">4/32</div>
+<div class="column_name serverRowColumn">GieMap - Deutscher Server</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Island</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32895:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Shoot The Deuce</div>
+<div class="column_mode serverRowColumn">bots</div>
+<div class="column_map serverRowColumn">Prison Camp</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1932730546:31773:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">The |LINES| Cave</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">colloseum</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4038426958:32000:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Shams 0.76 Pyspades</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Isle of War</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://238660531:32887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/8</div>
+<div class="column_name serverRowColumn">Servidor - Pixel Art</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Isle of War</div>
+<div class="column_country serverRowColumn"><img class="flag flag-br" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Brazil</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1044752706:32887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">zebmak99s server</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Utopia</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1396211655:30887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk capture the flag 0.76</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Tortuga</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32894:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Shoot The Deuce</div>
+<div class="column_mode serverRowColumn">bots</div>
+<div class="column_map serverRowColumn">Deuce Floor</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1396211655:31887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk 24/7 pinpoint 0.76</div>
+<div class="column_mode serverRowColumn">1ctf</div>
+<div class="column_map serverRowColumn">pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1396211655:43887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk arena top maps 0.76</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">Nuketown</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32892:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Push 0.76</div>
+<div class="column_mode serverRowColumn">push</div>
+<div class="column_map serverRowColumn">Bikini Atoll</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://1379434439:7676:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/32</div>
+<div class="column_name serverRowColumn">aloha.pk tower of babel 0.76</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">stadium</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+<a data-players="0" class="serverlink" href="aos://1379434439:47887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk Fortwars</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hexclimb</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:24887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk king of the hill</div>
+<div class="column_mode serverRowColumn">koth</div>
+<div class="column_map serverRowColumn">skullfort</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:45887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk four teams</div>
+<div class="column_mode serverRowColumn">4teams</div>
+<div class="column_map serverRowColumn">Quadpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:35887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/31</div>
+<div class="column_name serverRowColumn">aloha.pk infiltration</div>
+<div class="column_mode serverRowColumn">infiltr</div>
+<div class="column_map serverRowColumn">Castle Assault</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="22" class="serverlink" href="aos://774716197:32857:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">22/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty Babel Top10 24/7</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">Frog</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="3" class="serverlink" href="aos://2972363091:32889:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">3/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Arena</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">Swamparena</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="17" class="serverlink" href="aos://2866202799:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">17/32</div>
+<div class="column_name serverRowColumn">CIB CLAN CTF SERVER</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">build3</div>
+<div class="column_country serverRowColumn"><img class="flag flag-kr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Korea</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1207969541:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">My 24/7 Server</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://774716197:32847:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty All Top10 24/7</div>
+<div class="column_mode serverRowColumn">all</div>
+<div class="column_map serverRowColumn">EllipsisBabel</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2816400714:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">SPQR GoonAssault Server</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Utopia</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32891:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Push</div>
+<div class="column_mode serverRowColumn">push</div>
+<div class="column_map serverRowColumn">Swamp Lands</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="6" class="serverlink" href="aos://1543513861:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">6/32</div>
+<div class="column_name serverRowColumn">Event Noel</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Noel</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="17" class="serverlink" href="aos://1379434439:43887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">17/32</div>
+<div class="column_name serverRowColumn">aloha.pk arena top maps</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">Plane Assault</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:38887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk global war</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">earth</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="5" class="serverlink" href="aos://1379434439:30887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">5/32</div>
+<div class="column_name serverRowColumn">aloha.pk capture the flag</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">harbor2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:36887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tug of war</div>
+<div class="column_mode serverRowColumn">tow</div>
+<div class="column_map serverRowColumn">random</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1412988871:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Dankoland - Jetpack instagib</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">pattern</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:40887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk ctf 24/7 classicgen</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="4" class="serverlink" href="aos://3869722700:32997:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">4/32</div>
+<div class="column_name serverRowColumn">SuperCool RPG</div>
+<div class="column_mode serverRowColumn">rpg</div>
+<div class="column_map serverRowColumn">supercoolkill</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="9" class="serverlink" href="aos://1379434439:37887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">9/32</div>
+<div class="column_name serverRowColumn">aloha.pk humans vs. zombies</div>
+<div class="column_mode serverRowColumn">zombies</div>
+<div class="column_map serverRowColumn">points</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2157925059:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/4</div>
+<div class="column_name serverRowColumn">nitrado.net gameserver</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Bridge Wars</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1159862110:33087:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">JestServers.com France</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://3181589190:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">RoT - Random</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">random</div>
+<div class="column_country serverRowColumn"><img class="flag flag-ca" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Canada</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="19" class="serverlink" href="aos://3736662471:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">19/24</div>
+<div class="column_name serverRowColumn">KLAP - East Coast</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Pinpoint2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2214526854:32892:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">German Spades BABEL</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">Mesa</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2988796206:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">[FR] styled-gaming.eu | Babel |</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">toast</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1611523671:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HOMO - Babel</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">Hillside v2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://486549253:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Team TF 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://774716197:32867:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty mCtf Top10 24/7</div>
+<div class="column_mode serverRowColumn">mctf</div>
+<div class="column_map serverRowColumn">AbordageMiniCtf</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://2214526854:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/32</div>
+<div class="column_name serverRowColumn">German Spades</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://1379434439:50887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/32</div>
+<div class="column_name serverRowColumn">aloha.pk tdm 24/7 faceoff</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">faceoff</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2214526854:32890:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">German Spades TDM</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Nuketown</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4091232640:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/4</div>
+<div class="column_name serverRowColumn">minecrafthexxit</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">pyspades</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://19235506:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HWS AOS Server</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Space Station</div>
+<div class="column_country serverRowColumn"><img class="flag flag-ru" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Russia</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="3" class="serverlink" href="aos://3403146391:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">3/32</div>
+<div class="column_name serverRowColumn">MCP-UK Hallway #2 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:46887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk football/soccer</div>
+<div class="column_mode serverRowColumn">footbal</div>
+<div class="column_map serverRowColumn">desertcourse</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:51887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tennis</div>
+<div class="column_mode serverRowColumn">tennis</div>
+<div class="column_map serverRowColumn">tennis</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:23887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk dig dug</div>
+<div class="column_mode serverRowColumn">digdug</div>
+<div class="column_map serverRowColumn">Dig Dug</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:39887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk intel rpg</div>
+<div class="column_mode serverRowColumn">irpg</div>
+<div class="column_map serverRowColumn">darkfort</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:49887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk push</div>
+<div class="column_mode serverRowColumn">push</div>
+<div class="column_map serverRowColumn">Swamp Lands</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://1826870178:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/16</div>
+<div class="column_name serverRowColumn">Vanilla 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">classicgen</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="32" class="serverlink" href="aos://1379434439:34887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">32/32</div>
+<div class="column_name serverRowColumn">aloha.pk tower of babel</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">1river2forts</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="3" class="serverlink" href="aos://4232559539:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">3/16</div>
+<div class="column_name serverRowColumn">Commando Training brazil [TVG]</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-br" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Brazil</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="18" class="serverlink" href="aos://3214621526:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">18/32</div>
+<div class="column_name serverRowColumn">Destiny-Server - HALLWAY WINTER</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">hallwaywinter</div>
+<div class="column_country serverRowColumn"><img class="flag flag-hu" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Hungary</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:53887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk last stand</div>
+<div class="column_mode serverRowColumn">stand</div>
+<div class="column_map serverRowColumn">Ambush</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2966034199:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">doge</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Metropolis</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1611523671:700:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HOMO - Pinpoint/Goon Maps</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">crystalpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4038426958:41000:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Shams Little Pony</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">New Fort</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2501532628:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/24</div>
+<div class="column_name serverRowColumn">24/7 Polski serwer AOS 2(Klasy)</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Harbor 2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-pl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Poland</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:48887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk blockpower</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Pinway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:42887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tdm island maps</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">standoff</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Deathmatch</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Checkpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1932730546:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Hampshire Heavies Territorial C</div>
+<div class="column_mode serverRowColumn">tc</div>
+<div class="column_map serverRowColumn">hallwavy</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4073026265:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/4</div>
+<div class="column_name serverRowColumn">nitrado.net gameserver</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Anticbridge</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://1379434439:52887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/32</div>
+<div class="column_name serverRowColumn">aloha.pk SuperCool Build</div>
+<div class="column_mode serverRowColumn">build</div>
+<div class="column_map serverRowColumn">classicgenstatic</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://3403146391:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">MCP-UK AoS Server #2</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Urban Tank Fight</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="1" class="serverlink" href="aos://2501532628:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">1/24</div>
+<div class="column_name serverRowColumn">24/7 Polski serwer AOS</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-pl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Poland</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2400554830:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/10</div>
+<div class="column_name serverRowColumn">GermanBuildAndShotby DJeleganto</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Bridge Wars</div>
+<div class="column_country serverRowColumn"><img class="flag flag-nl" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Netherlands</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Capture The Flag</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Leaves 2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1611523671:667:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">HOMO - JojoeMaps</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">EpicForts</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="17" class="serverlink" href="aos://1379434439:31887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">17/32</div>
+<div class="column_name serverRowColumn">aloha.pk 1ctf 24/7 pinpoint</div>
+<div class="column_mode serverRowColumn">1ctf</div>
+<div class="column_map serverRowColumn">pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="31" class="serverlink" href="aos://1379434439:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">31/32</div>
+<div class="column_name serverRowColumn">aloha.pk r1ctf 24/7 hallway</div>
+<div class="column_mode serverRowColumn">r1ctf</div>
+<div class="column_map serverRowColumn">hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2988796206:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">[FR] styled-gaming.eu | CTF |</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Hallway</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://922756869:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">International Stalkers 24/7</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">KaBoom</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="4" class="serverlink" href="aos://2746420930:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">4/32</div>
+<div class="column_name serverRowColumn">Animus Server 1 - TDM</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Animus</div>
+<div class="column_country serverRowColumn"><img class="flag flag-it" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Italy</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="4" class="serverlink" href="aos://774716197:32877:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">4/32</div>
+<div class="column_name serverRowColumn">CallOfLiberty Arena Top10 24/7</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">MiniDeckArena</div>
+<div class="column_country serverRowColumn"><img class="flag flag-fr" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> France</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1932730546:39000:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">-@Sw Stormwind Clan CTF Server-</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Cannibal Islands</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://3403146391:32891:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">MCP-UK AoS TDM</div>
+<div class="column_mode serverRowColumn">tdm</div>
+<div class="column_map serverRowColumn">Assault2</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4161118164:32888:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Doms Experiments - Babel(/heal)</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">random</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:33887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk arena all maps</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">Space Station</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="15" class="serverlink" href="aos://3869722700:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">15/30</div>
+<div class="column_name serverRowColumn">SuperCool Curse of Hompy Jones</div>
+<div class="column_mode serverRowColumn">kraken</div>
+<div class="column_map serverRowColumn">Skull Island</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1112045143:32887:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">GieMap - Deutscher Server</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">BridgeCrossing</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32895:0.75" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Shoot The Deuce</div>
+<div class="column_mode serverRowColumn">bots</div>
+<div class="column_map serverRowColumn">Deuce Floor</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.75</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1932730546:31773:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">The |LINES| Cave</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">colloseum</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://3495648279:32887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/25</div>
+<div class="column_name serverRowColumn">[Brasil] KoS Clan Server - CTF</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">hillside</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://4038426958:32000:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">Shams 0.76 Pyspades</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Isle of War</div>
+<div class="column_country serverRowColumn"><img class="flag flag-gb" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United Kingdom</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1044752706:32887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">zebmak99s server</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Utopia</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1396211655:30887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk capture the flag 0.76</div>
+<div class="column_mode serverRowColumn">ctf</div>
+<div class="column_map serverRowColumn">Tortuga</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32894:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Shoot The Deuce</div>
+<div class="column_mode serverRowColumn">bots</div>
+<div class="column_map serverRowColumn">Deuce Maze</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1396211655:31887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk 24/7 pinpoint 0.76</div>
+<div class="column_mode serverRowColumn">1ctf</div>
+<div class="column_map serverRowColumn">pinpoint</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="2" class="serverlink" href="aos://1396211655:43887:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">2/32</div>
+<div class="column_name serverRowColumn">aloha.pk arena top maps 0.76</div>
+<div class="column_mode serverRowColumn">arena</div>
+<div class="column_map serverRowColumn">Nuketown</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://2972363091:32892:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">*Sauerkraut - Push 0.76</div>
+<div class="column_mode serverRowColumn">push</div>
+<div class="column_map serverRowColumn">Bikini Atoll</div>
+<div class="column_country serverRowColumn"><img class="flag flag-de" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> Germany</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+<a data-players="0" class="serverlink" href="aos://1379434439:7676:0.76" style="display: block;">
+<div class="serverRowWrapper">
+<div class="serverRow evenrow">
+<div class="column_slots serverRowColumn">0/32</div>
+<div class="column_name serverRowColumn">aloha.pk tower of babel 0.76</div>
+<div class="column_mode serverRowColumn">babel</div>
+<div class="column_map serverRowColumn">stadium</div>
+<div class="column_country serverRowColumn"><img class="flag flag-us" src="http://static.buildandshoot.com/custom_serverlist/blank.gif"/> United States</div>
+<div class="column_version serverRowColumn">0.76</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<br class="clear"/>
+</div>
+</div>
+</div>
+<span class="corners-bottom"><span></span></span></div>
+</div>
+<script type="text/javascript">
+		// <![CDATA[
+			if(GetCookie('BLOCK_C_40') == '2')
+			{
+				ShowHide('C_40','_C_40','BLOCK_C_40');
+			}
+		// ]]>
+		</script>
+</details>
+</p>-----------------------------------------------------------------------------------------</p>
+<div class="copyright">Powered by <a href="http://www.BoltzSitez.webs.com">Boltz</a>| Domain <a href="http://www.umbrellix.tk"> j4jackj</a>
+| Protected by <a href="http://www.boyuxray.tk" target="_blank">BOYuXRAY</a> | www.boltzsitez.webs.com
+<p>www.boyuxray.tk</p>
+<script type="text/javascript">
+var d = new Date()
+document.write(d.getFullYear())
+</script> - All Rights reserved.
+</center>
+</body>
